@@ -1,0 +1,2 @@
+Developed a machine learning pipeline using Python and scikit-learn to classify steel plate faults with Gaussian Mixture Models achieving up to 95% accuracy.
+Implemented polynomial regression models in Python to predict the age of abalone based on physical attributes, achieving a root mean square error (RMSE) of X on test data.
